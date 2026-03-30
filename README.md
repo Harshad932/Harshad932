@@ -102,7 +102,7 @@ const developer = {
 </a>
 
 <a href="https://github.com/Harshad932/foopiii">
-  <img src="https://img.shields.io/badge/LegalAssist-View%20Project-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Foopiii-View%20Project-blue?style=for-the-badge&logo=github" />
 </a>
 
 </div>
