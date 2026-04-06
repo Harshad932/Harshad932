@@ -30,6 +30,28 @@ const developer = {
 };
 ```
 
+## 📊 GitHub Statistics
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=Harshad932&theme=tokyonight&hide_border=false" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harshad932&theme=tokyonight" height="180" />
+
+  <br/><br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshad932&theme=tokyonight" width="90%" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshad932&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/Harshad932/Harshad932/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -63,28 +85,6 @@ const developer = {
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=Harshad932&theme=tokyonight&hide_border=false" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harshad932&theme=tokyonight" height="180" />
-
-  <br/><br/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshad932&theme=tokyonight" width="90%" />
-
-</div>
-
----
-
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshad932&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
